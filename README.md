@@ -1,6 +1,9 @@
 ## Clone the Repository
 
-git clone <repository-url>
+## git clone repository-url
+
+https://github.com/arunkumar8309/todo-backend
+
 cd todo-backend
 
 ## Install Dependencies
